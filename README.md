@@ -4,11 +4,13 @@ Esta API foi desenvolvida para efeitos de estudos. Ela está baseada no modelo d
 
 A proposta dessa API é Gerenciar a vendas de produtos ofertados pela empresa bancária onde poderemos inserir as vendas, passando as informações de (produto, nome, matrícula), a data e o ID serão inseridos automaticamente.
 
-<img align="center" alt="Caio-pY" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" > <img align="center" alt="Caio-pY" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" >
-
-
 ## Tecnologias
- 
+
+<img align="center" alt="icon-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" > <img align="center" alt="icon-spring" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" > <img align="center" alt="icon-java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" > <img align="center" alt="icon-postgres" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" > <img align="center" alt="icon-postman" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" >
+
+## Links Tecnologias
+
+- [Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
